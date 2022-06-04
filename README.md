@@ -4,7 +4,7 @@
 <h3 align="center">I am junior MERN_STACK developer from Dhaka, Bangladesh</h3>
 
 
-<img alt="fl9mdasif"  align="right" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif" >
+<img alt="fl9mdasif"  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" >
 
 - 🔭 I’m currently working on  [Cycle_parts_manufacturer](https://cycle-parts-hut.web.app/)
 
