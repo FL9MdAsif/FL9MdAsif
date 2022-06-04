@@ -1,4 +1,4 @@
-[![MD ASIF AL AZAD's Portfolio](Portfolio)](https://rishavchanda.io)
+[![MD ASIF AL AZAD's Portfolio](Portfolio)]()
 
 <h1 align="center">Hi 👋, I'm MD ASIF AL AZAD</h1>
 <h3 align="center">Jr MERN_STACK developer from Dhaka, Bangladesh</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fl9mdasif?tab=repositories](https://github.com/fl9mdasif?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/fl9mdasif?tab=repositories)
 
 - 💬 Ask me about **MERN**
 
