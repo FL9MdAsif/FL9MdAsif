@@ -5,7 +5,8 @@
 
 
 <img alt="fl9mdasif"  align="right" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif" >
-- 🔭 I’m currently working on [Cycle_parts_manufacturer](https://cycle-parts-hut.web.app)
+
+- 🔭 I’m currently working on  [Cycle_parts_manufacturer](https://cycle-parts-hut.web.app/)
 
 - 🌱 I’m currently learning **Next.js,**
 
