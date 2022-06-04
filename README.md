@@ -4,9 +4,7 @@
 <h3 align="center">Jr MERN_STACK developer from Dhaka, Bangladesh</h3>
 
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_u4jjb9bd.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
-
+<img alt="fl9mdasif"  align="right" width="400" src="https://ngsup.com/wp-content/uploads/wifi.gif" >
 - 🔭 I’m currently working on [Cycle parts manufacturer](https://cycle-parts-hut.web.app/)
 
 - 🌱 I’m currently learning **Next.js,**
