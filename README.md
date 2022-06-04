@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fl9mdasif?tab=repositories)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN-STACK**
 
 - 📫 How to reach me **asifalazadami2021@gmail.com**
 
