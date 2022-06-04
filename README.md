@@ -4,7 +4,7 @@
 <h3 align="center">Jr MERN_STACK developer from Dhaka, Bangladesh</h3>
 
 
-<p align="left"> <iframe title="dev" src="https://embed.lottiefiles.com/animation/91194"></iframe> </p>
+ <iframe width='400' align="left" title="dev" src="https://embed.lottiefiles.com/animation/91194"></iframe> 
 
 - 🔭 I’m currently working on [Cycle parts manufacturer](https://cycle-parts-hut.web.app/)
 
