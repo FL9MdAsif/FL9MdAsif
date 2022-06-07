@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MD ASIF AL AZAD</h1>
-<h3 align="center">I am junior MERN_STACK developer from Dhaka, Bangladesh</h3>
+<h3 align="center">I am FRONT_END developer from Dhaka, Bangladesh</h3>
 
 
 <img alt="fl9mdasif"  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" >
@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on  [Cycle_parts_manufacturer](https://cycle-parts-hut.web.app/)
 
 - 🌱 I’m currently learning **Next.js,**
+
+-😍 Passionate to **MERN_STACK**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fl9mdasif?tab=repositories)
 
