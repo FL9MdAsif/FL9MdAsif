@@ -6,11 +6,11 @@
 
 <img alt="fl9mdasif"  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" >
 
-- 🔭 I’m currently working on  [Cycle_parts_manufacturer](https://cycle-parts-hut.web.app/)
+- ✅🌐Visit My Portfolio Website [Portfolio Website](https://md-asifs-portfolio.web.app/)
 
-- 🌱 I’m currently learning **Next.js,**
+- 🌱 I’m currently learning **Redux**
 
-- 😍 Passionate to **MERN_STACK**
+- 😍 Passionate to **Senior Full Stack**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/fl9mdasif?tab=repositories)
 
