@@ -24,6 +24,9 @@
   <a href="https://twitter.com/Codingwithasif" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Codingwithasif?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
+  <a href="https://drive.google.com/file/d/1jjm2I5XuvJkTG2z0_aMkQR63CuGZDJid/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-%230077b5?style=flat-square&logo=google-drive" alt="Download CV" />
+  </a>
 </p>
 
 
