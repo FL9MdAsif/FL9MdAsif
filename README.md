@@ -1,16 +1,30 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" style="padding: 10px; border: 4px solid; "> 
-        <img align="center" src="https://i.ibb.co/yyHszMZ/hero-dev.png" alt="fl9mdasif" style=" width:1600px; height:400px; object-fit:contain;  padding: 10px; border-radius: 5px;" />
+    <td align="center"> 
+        <img align="center" src="https://i.ibb.co/yyHszMZ/hero-dev.png" alt="fl9mdasif" style=" width:1600px; height:400px; object-fit:contain;   " />
      </td>
   </tr>
 </table>
 
-<h1 align="center">Hi 👋,This is MD ASIF AL AZAD</h1>
-<h3 align="center"> "WEB DEVELOPER" from Dhaka, Bangladesh</h3>
+<h3 align="center"> Full Stack Wev Developer from Dhaka, Bangladesh</h3>
+<h4 align="center"> 🏂Reach me out</h3>
+
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding:15px 5px;">
+      <a target="_blank" href="/" alt="fl9mdasif">Visit Portfolio</a>
+    </td>
+       <td align="center" style="padding:15px 5px;">
+      <a target="_blank" href="https://www.linkedin.com/in/fl9mdasif" alt="fl9mdasif">Linkedin</a>
+    </td>
+       <td align="center" style="padding:15px 5px;">
+      <a target="_blank" href=" https://www.facebook.com/devmdasifofficial" alt="fl9mdasif">Facebook</a>
+    </td>
+  </tr>
+</table>
 
 
-<img alt="fl9mdasif"  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" >
+ 
 
 - ✅🌐Visit My Portfolio Website [Portfolio Website](https://md-asifs-portfolio.web.app/)
 
