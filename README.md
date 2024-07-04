@@ -45,6 +45,8 @@
   </tr>
 </table>
 
- 
-  <img align="center" src="https://media.giphy.com/media/bLdgTj2jCKe9Wf94Km/giphy.gif" alt="fl9mdasif" style="background: url('https://your-hosted-gradient-image-url'); padding: 10px; border-radius: 5px;" />
+ <p style="display:flex; justify-content:center;">
+   
+  <img align="center" src="https://media.giphy.com/media/bLdgTj2jCKe9Wf94Km/giphy.gif" alt="fl9mdasif" style="  padding: 10px; border-radius: 5px;" />
+ </p>
 
