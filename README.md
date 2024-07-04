@@ -7,7 +7,7 @@
 </table>
 
  
-<h4 align="left" style="style="border-bottom: 2px solid #000000;"> 🏂Reach me out</h3>
+<h4 align="left" style="border-bottom: 2px solid #000000;"> 🏂Reach me out</h3>
 <p align="center" style="padding:15px 5px;">
       <a target="_blank" href="/" alt="fl9mdasif">Visit Portfolio</a>
     </p>
