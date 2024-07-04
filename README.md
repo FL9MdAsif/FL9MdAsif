@@ -39,4 +39,4 @@
 
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fl9mdasif&show_icons=true&locale=en" alt="fl9mdasif" /></p>
 
-<p align="center" style="background: linear-gradient(90deg, #f3ec78, #af4261); padding: 10px; border-radius: 5px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&" alt="fl9mdasif" /></p>
+<p align="center" style="background: linear-gradient(90deg, #f3ec78, #af4261);border:1px solid red; padding: 10px; border-radius: 5px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&" alt="fl9mdasif" /></p>
