@@ -8,19 +8,18 @@
 
  
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 🏂Reach me out</h3>
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td align="center" style="padding:15px 5px;">
-      <a target="_blank" href="/" alt="fl9mdasif">Visit Portfolio</a>
-    </td>
-       <td align="center" style="padding:15px 5px;">
-      <a target="_blank" href="https://www.linkedin.com/in/fl9mdasif" alt="fl9mdasif">Linkedin</a>
-    </td>
-       <td align="center" style="padding:15px 5px;">
-      <a target="_blank" href="https://www.facebook.com/devmdasifofficial" alt="fl9mdasif">Facebook</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://your-portfolio-url.com" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #ff6b6b, #f06595); color: white; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    Visit Portfolio
+  </a>
+  <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #0077b5, #00a0dc); color: white; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    LinkedIn
+  </a>
+  <a href="https://www.facebook.com/devmdasifofficial" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #1877f2, #42b72a); color: white; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    Facebook
+  </a>
+</p>
+
 
  
 
