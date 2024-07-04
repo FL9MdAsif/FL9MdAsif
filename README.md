@@ -7,32 +7,18 @@
 </table>
 
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 🏂Reach me out</h3>
-<p align="center" style="display:flex; gap:10px; margin-right:7px;">
-  <p style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #ff6b6b, #f06595); color: red; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"><a href="https://your-portfolio-url.com" target="_blank" >
-    Visit Portfolio
+
+<p align="center">
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-%23ff6b6b?style=flat-square&logo=visual-studio-code" alt="Visit Portfolio" />
   </a>
-  </p>
-  <p><a href="https://www.linkedin.com/in/fl9mdasif" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #0077b5, #00a0dc); color: red; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
- </p>
-  <p> <a href="https://www.facebook.com/devmdasifofficial" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #1877f2, #42b72a); color: red; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    Facebook
-  </a></p>
+  <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877f2?style=flat-square&logo=facebook" alt="Facebook" />
+  </a>
 </p>
-
-<a href="https://link-to-your-action.com" class="button">Button Text</a>
-
-.button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
 
 
 - ✅🌐Visit My Portfolio Website [Portfolio Website](https://md-asifs-portfolio.web.app/)
