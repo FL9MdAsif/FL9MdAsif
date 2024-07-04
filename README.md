@@ -39,11 +39,8 @@
     <td align="center" style="padding: 10px; border: 4px solid; border-image: url('https://raw.githubusercontent.com/your-username/your-repo/main/gradient-border.png') 30; border-image-width: 10px; border-radius: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fl9mdasif&show_icons=true&locale=en&layout=compact" alt="fl9mdasif" />
     </td>
-    <td align="center" style="padding: 10px; border: 4px solid; border-image: url('https://raw.githubusercontent.com/your-username/your-repo/main/gradient-border.png') 30; border-image-width: 10px; border-radius: 10px;">
-   
+    <td align="center" style="padding: 10px; border: 4px solid; border-image: url('https://raw.githubusercontent.com/your-username/your-repo/main/gradient-border.png') 30; border-image-width: 10px; border-radius: 10px;"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&" alt="fl9mdasif" style="background: url('https://your-hosted-gradient-image-url'); padding: 10px; border-radius: 5px;" />
- 
-
     </td>
   </tr>
 </table>
