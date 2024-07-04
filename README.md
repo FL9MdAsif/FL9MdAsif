@@ -2,7 +2,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center"> 
-        <img align="center" src="https://i.ibb.co/QpNZV2b/hero-dev.png=" width:1600px; height:300px; object-fit:contain;   " />
+        <img align="center" src="https://i.ibb.co/pbv7mmy/hero-dev-sort.png" width:1600px; height:300px; object-fit:contain;   " />
      </td>
   </tr>
 </table>
@@ -10,7 +10,7 @@
 <!-- social -->
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 📫Reach me out</h3>
 
-<p align="center">I'm a dedicated Full-Stack Developer with a strong background in building and maintaining scalable web applications. With extensive experience in both frontend and backend development, I excel in creating seamless user experiences and robust server-side logic. My passion for coding, coupled with a commitment to continuous learning and improvement, drives me to stay updated with the latest industry trends and best practices. I thrive in collaborative environments and am skilled in delivering high-quality projects that meet client needs and exceed expectations.</p>
+<p align="center">I'm a dedicated Full-Stack Developer with a strong background in building and maintaining scalable web applications. With extensive real time project experience in both frontend and backend development, I excel in creating seamless user experiences and robust server-side logic. My passion for coding, coupled with a commitment to continuous learning and improvement, drives me to stay updated with the latest industry trends and best practices. I thrive in collaborative environments and am skilled in delivering high-quality projects that meet client needs and exceed expectations.</p>
 
 <p align="center">
   <a href="https://md-asifs-portfolio.web.app/" target="_blank">
