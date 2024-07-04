@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877f2?style=flat-square&logo=facebook" alt="Facebook" />
   </a>
     <img src="https://img.shields.io/youtube/channel/subscribers/UCqYCxH8bUk-P4EI65anyKOg" alt="YOUTUBE" />
-    <img src="https://img.shields.io/twitter/Codingwithasif" alt="twitter" />
+    <img src="https://img.shields.io/twitter/follow/Codingwithasif" alt="twitter" />
 </p>
 
 
