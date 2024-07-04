@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://md-asifs-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-%23ff6b6b?style=flat-square&logo=visual-studio-code" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_Portfolio-%058b32?style=flat-square&logo=visual-studio-code" alt="Visit Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Download_CV-%230077b5?style=flat-square&logo=google-drive" alt="Download CV" />
   </a>
   <a href="mailto:asifalazadami2021@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Copy%20my%20email-%23ff6b6b?style=flat-square&logo=mail" alt="Send Email" />
+    <img src="https://img.shields.io/badge/📧%20Send%20%20email-%23ff6b6b?style=flat-square&logo=mail" alt="Send Email" />
   </a>
   <a href="https://discord.com/users/dev_asif" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=discord" alt="Connect on Discord" />
