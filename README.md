@@ -18,8 +18,13 @@
   <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877f2?style=flat-square&logo=facebook" alt="Facebook" />
   </a>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCqYCxH8bUk-P4EI65anyKOg" alt="YOUTUBE" />
+    
+  <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
+    <img src="https://img.shields.io/Youtube/%230077b5?style=flat-square&logo=youtube"  alt="YOUTUBE" />
+  </a>
+  <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Codingwithasif" alt="twitter" />
+  </a>
 </p>
 
 
