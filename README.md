@@ -7,7 +7,7 @@
 </table>
 
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 🏂Reach me out</h3>
-<p align="center" style="display:flex; margin-right:7px;">
+<p align="center" style="display:flex; gap:10px; margin-right:7px;">
   <a href="https://your-portfolio-url.com" target="_blank" style="display: inline-block; padding: 10px 20px; margin: 5px; border-radius: 5px; background: linear-gradient(45deg, #ff6b6b, #f06595); color: red; text-decoration: none; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     Visit Portfolio
   </a>
