@@ -40,12 +40,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fl9mdasif&show_icons=true&locale=en&layout=compact" alt="fl9mdasif" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fl9mdasif&show_icons=true&locale=en" alt="fl9mdasif" />
+       
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&" alt="fl9mdasif" style="background: url('https://your-hosted-gradient-image-url'); padding: 10px; border-radius: 5px;" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fl9mdasif&" alt="fl9mdasif" style="background: url('https://your-hosted-gradient-image-url'); padding: 10px; border-radius: 5px;" />
-</p>
+ 
 
