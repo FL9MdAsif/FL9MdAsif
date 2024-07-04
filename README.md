@@ -10,6 +10,8 @@
 <!-- social -->
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 📫Reach me out</h3>
 
+<p align="center">I'm a dedicated Full-Stack Developer with a strong background in building and maintaining scalable web applications. With extensive experience in both frontend and backend development, I excel in creating seamless user experiences and robust server-side logic. My passion for coding, coupled with a commitment to continuous learning and improvement, drives me to stay updated with the latest industry trends and best practices. I thrive in collaborative environments and am skilled in delivering high-quality projects that meet client needs and exceed expectations.</p>
+
 <p align="center">
   <a href="https://md-asifs-portfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Portfolio-%058b32?style=flat-square&logo=link" alt="Visit Portfolio" />
