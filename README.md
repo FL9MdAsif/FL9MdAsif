@@ -8,17 +8,19 @@
 
  
 <h4 align="left" style="border-bottom: 2px solid #000000; padding-bottom: 10px;"> 🏂Reach me out</h3>
-<p align="center" style="padding:15px 5px;">
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="padding:15px 5px;">
       <a target="_blank" href="/" alt="fl9mdasif">Visit Portfolio</a>
-    </p>
+    </td>
        <td align="center" style="padding:15px 5px;">
       <a target="_blank" href="https://www.linkedin.com/in/fl9mdasif" alt="fl9mdasif">Linkedin</a>
-    </p>
-       <p align="center" style="padding:15px 5px;">
+    </td>
+       <td align="center" style="padding:15px 5px;">
       <a target="_blank" href="https://www.facebook.com/devmdasifofficial" alt="fl9mdasif">Facebook</a>
-    </p>
-
-
+    </td>
+  </tr>
+</table>
 
  
 
