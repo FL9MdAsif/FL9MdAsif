@@ -1,7 +1,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="padding: 10px; border: 4px solid; "> 
-        <img align="center" src="https://ibb.co/xjx5ncB" alt="fl9mdasif" style=" width:1600px; height:400px; object-fit:contain;  padding: 10px; border-radius: 5px;" />
+        <img align="center" src="https://i.ibb.co/yyHszMZ/hero-dev.png" alt="fl9mdasif" style=" width:1600px; height:400px; object-fit:contain;  padding: 10px; border-radius: 5px;" />
      </td>
   </tr>
 </table>
