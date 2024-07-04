@@ -6,22 +6,19 @@
   </tr>
 </table>
 
-<h3 align="center"> Full Stack Wev Developer from Dhaka, Bangladesh</h3>
-<h4 align="center"> 🏂Reach me out</h3>
+ 
+<h4 align="left" style="border-bottom:1px solid black "> 🏂Reach me out</h3>
 
-<table align="center" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td align="center" style="padding:15px 5px;">
+    <p align="center" style="padding:15px 5px;">
       <a target="_blank" href="/" alt="fl9mdasif">Visit Portfolio</a>
-    </td>
+    </p>
        <td align="center" style="padding:15px 5px;">
       <a target="_blank" href="https://www.linkedin.com/in/fl9mdasif" alt="fl9mdasif">Linkedin</a>
-    </td>
-       <td align="center" style="padding:15px 5px;">
-      <a target="_blank" href=" https://www.facebook.com/devmdasifofficial" alt="fl9mdasif">Facebook</a>
-    </td>
-  </tr>
-</table>
+    </p>
+       <p align="center" style="padding:15px 5px;">
+      <a target="_blank" href="https://www.facebook.com/devmdasifofficial" alt="fl9mdasif">Facebook</a>
+    </p>
+
 
 
  
