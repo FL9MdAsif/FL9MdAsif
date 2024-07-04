@@ -18,14 +18,14 @@
   <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877f2?style=flat-square&logo=facebook" alt="Facebook" />
   </a>
-    
-  <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
-    <img src="https://img.shields.io/Youtube/%230077b5?style=flat-square&logo=youtube"  alt="YOUTUBE" />
+  <a href="https://www.youtube.com/channel/YourYouTubeChannelID" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23ff0000?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.facebook.com/devmdasifofficial" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Codingwithasif" alt="twitter" />
+  <a href="https://twitter.com/Codingwithasif" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Codingwithasif?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
 </p>
+
 
 
 - ✅🌐Visit My Portfolio Website [Portfolio Website](https://md-asifs-portfolio.web.app/)
