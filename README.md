@@ -48,7 +48,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <td align="center" style="padding: 10px; border: 4px solid; "> 
-        <img align="center" src="https://media.giphy.com/media/bLdgTj2jCKe9Wf94Km/giphy.gif" alt="fl9mdasif" style=" width:800px;  padding: 10px; border-radius: 5px;" />
+        <img align="center" src="[https://media.giphy.com/media/bLdgTj2jCKe9Wf94Km/giphy.gif](https://cdn.dribbble.com/users/2659724/screenshots/15260020/media/7a047d4f6658eb03053a17b7f598415c.png?resize=1000x750&vertical=center)" alt="fl9mdasif" style=" width:800px;  padding: 10px; border-radius: 5px;" />
      </td>
   </tr>
 </table>
