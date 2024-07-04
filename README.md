@@ -45,8 +45,14 @@
   </tr>
 </table>
 
- <p style="display:flex; justify-content:center;">
-   
+<table align="center" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    
+    <td align="center" style="padding: 10px; border: 4px solid; border-image: url('https://raw.githubusercontent.com/your-username/your-repo/main/gradient-border.png') 30; border-image-width: 10px; border-radius: 10px;"> 
+    
   <img align="center" src="https://media.giphy.com/media/bLdgTj2jCKe9Wf94Km/giphy.gif" alt="fl9mdasif" style="  padding: 10px; border-radius: 5px;" />
- </p>
+     </td>
+  </tr>
+</table>
+   
 
