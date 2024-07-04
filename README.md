@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://md-asifs-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-%058b32?style=flat-square&logo=visual-studio-code" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_Portfolio-%058b32?style=flat-square&logo=link" alt="Visit Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/fl9mdasif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077b5?style=flat-square&logo=linkedin" alt="LinkedIn" />
